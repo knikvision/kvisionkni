@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Blend: Background Swapper",
+  "description": "Seamlessly replace photo backgrounds while preserving subject pose and adapting lighting using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
